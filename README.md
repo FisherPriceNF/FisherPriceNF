@@ -30,7 +30,7 @@
   
  ✌️ &emsp; J’aime créer des programmes utiles, modulables et parfois complexes par le métier. <br/><br/>
  ❤️ &emsp; Je passe mes journées à coder et le reste du temps à faire du bénévolat… parfois en y codant aussi !<br/><br/>
- 📧 &emsp; Toujours dispo pour échanger : nfontanet@hotmail.fr<br/><br/>
+ 📧 &emsp; Toujours dispo pour échanger : <a href="mailto:nfontanet@hotmail.fr">Contactez-moi !</a><br/><br/>
 
 </p>
 
