@@ -8,7 +8,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 Je suis un développeur back-end pour des applications de paie depuis <b>France</b> pour l'entreprise <a target="_blank" href="https://github.com/fulll">@Fulll</a>」
+    「 Je suis un développeur back-end pour des applications de paie depuis <b>France</b> pour l'entreprise <a target="_blank" href="https://github.com/fulll">@Fulll</a> 」
     <br>
     <br>
   </samp>
